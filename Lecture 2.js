@@ -7,3 +7,4 @@
 //npm list - Lists all installed packages and their dependencies.
 //npm publish - Publishes a package to the NPM registry.
 //npm run <script-name> - Runs a script defined in the package.json file.
+//Modules break code into reusable chunks. They allow you to organize your code and share it across different parts of your application or even with other developers. In Node.js, you can create modules by exporting functions, objects, or values from a file and then importing them in another file using the require() function. This helps to keep your code clean and maintainable, as well as promotes code reusability.
